@@ -7,7 +7,7 @@ module.exports = {
   showShareButtons: true,
   postsPerPage: 5, // Required
   social: {
-    website: 'https://agitated-thompson-1f4fb5.netlify.com/',
+    website: 'https://joedevblog.netlify.com/',
     github: 'https://github.com/JosephIaquinto',
     twitter: 'https://twitter.com/Iaquinto_Joe',
     linkedin: 'https://linkedin.com/in/joseph-iaquinto/',
